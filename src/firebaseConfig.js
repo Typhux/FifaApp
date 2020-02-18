@@ -3,7 +3,7 @@ import 'firebase/firestore'
 
 // firebase init goes here
 const config = {
-    apiKey: "AIzaSyDNNsd76tzwUa-W6iuwwtPStuQ1_vNb-TA",
+    apiKey: "",
     databaseURL: "https://fifadb.firebaseio.com",
     projectId: "fifadb-818a5",
     messagingSenderId: "715283929582"
